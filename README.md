@@ -1,6 +1,6 @@
 # myfirstrepository
 
-kashish is aashiq
+kashish 
 people are never so nice
 this is my new branch
 hey this is sk...
